@@ -8,8 +8,5 @@ node_js:
 install:
     - npm ci
 
-install:
-    - npm test
-
 nofications:
     email: false
