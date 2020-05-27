@@ -10,8 +10,3 @@ install:
 
 nofications:
     email: false
-
-deploy:
-  provider: heroku
-  api_key:
-    secure: ""
